@@ -1,4 +1,4 @@
-# Baseline Model Comparison and Recommendation
+# Baseline Model Comparison and Recommendation -- Part E
 
 ## Project Overview
 This project compares four classical NLP baseline pipelines for 20-topic document classification and recommends one baseline model for initial deployment based on validation metrics and business constraints.
